@@ -1,0 +1,9 @@
+The edit-add-commit-push cycle is the standard four-step workflow used in Git to modify code and save it to a shared project.
+
+- Edit: You modify, delete, or create files in your local workspace.
+
+- Add: You run git add to move those changes into a temporary Staging Area.
+
+- Commit: You run git commit to save those staged changes as a permanent Local Snapshot on your computer.
+
+- Push: You run git push to upload your local snapshots to a Remote Server (like GitHub) so others can see them.
